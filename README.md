@@ -249,7 +249,7 @@ PhonePe-PowerBI-Dashboard/
 
 **Lokesh Kumar**
 
-**Power BI Developer | Data Analyst**
+**| Data Analyst**
 
 ---
 
